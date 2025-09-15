@@ -47,4 +47,5 @@ test-output
 
 /generated/prisma
 
+.env.*
 .env
